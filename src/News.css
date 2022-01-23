@@ -1,0 +1,21 @@
+.btn-container{
+
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap:wrap;
+
+
+}
+.btn-ind{
+    width:70%;
+    padding:10px;
+    margin:15px;
+}
+.div-ind{
+    width:70%;
+    padding:10px;
+    margin:15px;
+    border:2px solid black;
+}
